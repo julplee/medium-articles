@@ -1,7 +1,6 @@
-#
+
 # Introducing Synthesio&#39;s R&amp;D
 
-##
 ## Synthesio: Leading Global Social Intelligence Suite
 
  ![](images/introducing-synthesio-1.png)
@@ -10,7 +9,6 @@ Synthesio is a Software Editor that provides brands and agencies around the worl
 
 To build these awesome capabilities we are striving to build an awesome R&amp;D team
 
-###
 # Who we are
 
 The R&amp;D team of Synthesio is composed of a bunch of talented people divided in four sub-teams :
@@ -22,7 +20,6 @@ The R&amp;D team of Synthesio is composed of a bunch of talented people divided 
 
 Each team fosters their set of special skills that gives us the ability to create, maintain and advance our features and software
 
-###
 # What we&#39;re working on
 
 Our core stake is the scalability of an infrastructure that manipulates big data and displays insights to our customers
@@ -41,7 +38,6 @@ We have an obsession for measuring how things work, how our features are used by
 
   ![](images/introducing-synthesio-2.jpg)
 
-###
 # What are our beliefs
 
 We have a strong belief that humanity, career&#39;s path and skills development are the most important thing a company can bring to its people

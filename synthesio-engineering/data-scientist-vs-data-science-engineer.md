@@ -1,7 +1,5 @@
-#
 # Data Scientist vs Data Science Engineer
 
-##
 ## Data Science jobs are many and varied nowadays. At Synthesio we felt the need to define a difference between Data Scientist and what we call a Data Science Engineer
 
   **Authors:** Julien Plée, Selim Raboudi, Dimitri Trotignon
