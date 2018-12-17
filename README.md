@@ -7,3 +7,4 @@
 * Synthesio Engineering
     * [Introducing Synthesio](synthesio-engineering/introducting-synthesio.md)
     * [Data Scientist vs Data Science Engineer](synthesio-engineering/data-scientist-vs-data-science-engineer.md)
+    * [Pulses & Trends - 1st part](synthesio-engineering/pulses_trends_1.md)
