@@ -1,4 +1,4 @@
-# Peaks and trends detection in time series for social data 
+# Peaks and trends detection in time series for social data - 1st part
 
   **Authors:** Dimitri Trotignon
 
@@ -35,3 +35,5 @@ We can clearly see that the there is a strong seasonality related to “Grands P
 As we are a Saas company, we need to build a scalable, robust and efficient model which will perform well on many different types of time series. The scalability is very important too. The model needs to be usable for many clients at the same time, and it also needs to answer fast to the clients query.
 
 From a code organisation point of view, The pulses and trends detection module is developed as an API coded in Python language. As the majority of Synthesio's processing chain are actually in Golang, an other API has been created to communicate with front part
+
+In the next articles of the serie we are going to deep dive into how we calculate pulses and trends
