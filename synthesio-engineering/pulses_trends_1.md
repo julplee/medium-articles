@@ -13,13 +13,17 @@ Then we also give the opportunity to the user to choose variables and metrics. F
 For the metrics they will be able to choose among several choices such as volume of mention, sum of interactions (comments, likes etc.) or reach. The idea is to see, for example if a lot of people are posting about a subject on a particular date period or if some subjects generate a lot of interactions from users. 
 
 Once we have chose our dimensions and metrics, let’s see what the data looks like. 
+
 Daily data
+
 ![](images/daily.png)
 
 Weekly data
+
 ![](images/weekly.png)
 
 Monthly data
+
 ![](images/monthly.png)
 
 We can clearly see that the data is not similar according to the period. Some data sets present a strong seasonality while others do not. In a general way we can see that globally, monthly data is the most smooth one. On the opposite, daily data is very unstable and present many asperities. 
