@@ -13,7 +13,8 @@ To build these awesome capabilities we are striving to build an awesome R&amp;D 
 
 The R&amp;D team of Synthesio is composed of a bunch of talented people divided in four sub-teams :
 
-- the System Reliability Engineering (SRE) team deploying the surroundings of our infrastructure and our hosting
+- the Quality Assurance (QA) team ensuring that software meet top quality requirements
+- the System Reliability Engineering (SRE) team deploying and automating the surroundings of our infrastructure and our hosting
 - the Front-end Engineering team ensuring we deliver awesome features to our customers by using the most appropriate technologies
 - the Data Engineering team striving on manipulating tons of data and billions of documents every day
 - the Data Science team spearheading our last AI innovations about Natural Language Processing (NLP), Image Recognition and Trends detection
