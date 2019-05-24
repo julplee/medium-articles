@@ -22,7 +22,7 @@ When you work from our buildings, you can enjoy as many as remote days that you 
 
 # The Remote only Manifesto
 
-We use principles coming from the **Remote only Manifesto** (https://www.remoteonly.org/). 
+We use principles coming from the [**Remote only Manifesto**](https://www.remoteonly.org/).
 They are written in the same way as the Agile Manifesto so the same golden rule applies:
 
 `don’t forget that the right part after the over keyword, it’s important enough to be written down`
@@ -44,21 +44,17 @@ Maybe we can still improve ourselves on the recording part. For now we’d rathe
 
 ## Our ritual of having full remote workers come home
 
-Full remote workers will come monthly two to three days at the office to meet the team. For us it is healthy to keep a sense of belonging to the team and to create strong synergies and relationships between people. 
-Of course we ensure that these “onsite” days are useful to people and that they will enjoy seeing others because they will work on same stuff together so that it makes full sense to meet. 
+Full remote workers will come monthly two to three days at the office to meet the team. For us it is healthy to keep a sense of belonging to the team and to create strong synergies and relationships between people.
+Of course we ensure that these “onsite” days are useful to people and that they will enjoy seeing others because they will work on same stuff together so that it makes full sense to meet.
 Also having the remote guys coming once a month allows us to enjoy hangouts and after works together as well which is a very strong way of bonding a team
 
 ## Flexible working hours
 
-The Remote work Manifesto recommends a lot of other things such as having “flexible working hours over set working hours”. 
-This one is pretty obvious to us. 
+The Remote work Manifesto recommends a lot of other things such as having “flexible working hours over set working hours”.
+This one is pretty obvious to us.
 If you trust your people to work remotely, you should trust them whatever hours they choose to work as well.
 
 Of course this could be mitigated by the need to meet with the team at predefined hours so when it occurs you adapt to this needs. But for the rest of the time the flexibility brought to us by remote work allows everyone to adapt their working hours as needed. This is particularly helpful for everyone.
-
-## Maybe some drawbacks
-
-The real drawback behind remote work is that a few of us notice they work more than less. It’s necessary to define strong rules when you work from home as you will soon be tempted to work all day long. So you need more than never to define your own balance between private and professional life. One of our engineers, Christophe, wrote an excellent article about how to keep an healthy way of working as a remote and avoid overheat.
 
 ## The most important principle and why it works for us
 
@@ -67,6 +63,22 @@ The real drawback behind remote work is that a few of us notice they work more t
 Don’t bother people with how many hours they are working, just define together clear expectations and agree on them. This way only results count, not the way you achieve them
 
 **This way of thinking is what I recommend to every manager, this is not only to apply when you set remote work options, this is the way to go as a manager**. This is is a key factor to succeed your projects and get your teams thriving plus enjoying their days at work.
+
+# Maybe some drawbacks
+
+The real drawback behind remote work is that a few of us notice they work more than less. It’s necessary to define strong rules when you work from home as you will soon be tempted to work all day long. So you need more than never to define your own balance between private and professional life. One of our engineers, Christophe, wrote [an excellent article](https://medium.com/synthesio-engineering/how-to-be-a-good-remote-worker-for-your-team-and-for-yourself-42a25ec99ba7) about how to keep an healthy way of working as a remote and avoid overheat.
+
+# A few advice for managers
+
+If you are a manager and your people want to take remote days, here are some personal advice that I can provide:
+
+## Trust your people
+
+As I like to say, trust is the gift you should offer first without any critical reasoning. Most of the time, people want to work from home because this is more convenient for them. This could be more convenient for many reasons that I don't mind but there is one for sure: **this allows them to work at most efficiency**.
+
+## Strengthen your management skills
+
+Managing full-remote workers or people having only a few days working from home will help you answer questions about your management style, the way you foster relationships, how you create and maintain them, how you build trust and rapport with your team mates, ensure you set together measurable goals... This is all good to improve your management skills
 
 # Our “Work from anywhere” week
 
@@ -87,3 +99,4 @@ In the end we even felt that we sometimes achieved more than in a regular week!
 ![Working from home has some drawbacks but a lot of benefits for you… and your company!](images/../../images/my-manager-experience-about-remote-working-03.jpg)
 
 So yes, remote working has drawbacks and asks for an accurate organisation of work and communication, but as soon as you integrate in your core these needs that having remote workers imply, you move a step forward and **you reap the rewards of trusting people and make their life easier and more enjoyable!**
+Also keep in mind that remote working is not for everyone. Some people will be more efficient while working among their colleagues. That's why we like our balance of letting people choose when they want to remote otherwise provide them great offices to work together.
