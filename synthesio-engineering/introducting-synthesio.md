@@ -3,7 +3,7 @@
 
 ## Synthesio: Leading Global Social Intelligence Suite
 
- ![](images/introducing-synthesio-1.png)
+ ![Synthesio logo](images/introducing-synthesio-1.png)
 
 Synthesio is a Software Editor that provides brands and agencies around the world with the social listening tools and audience insights they need to measure the impact of social and mainstream media conversations
 
@@ -37,7 +37,7 @@ Whatever you are a Data Scientist or a Front-end Engineer you will probably work
 
 We have an obsession for measuring how things work, how our features are used by customers, to know the status of micro-services in our processing chain, the performance of every node of the infrastructure…
 
-  ![](images/introducing-synthesio-2.jpg)
+  ![Synthesio office](images/introducing-synthesio-2.jpg)
 
 # What are our beliefs
 
