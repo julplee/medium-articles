@@ -7,6 +7,7 @@
 ## General articles
 
 * [Introducing Synthesio](synthesio-engineering/introducting-synthesio.md)
+* [My manager experience about remote work](synthesio-engineering/my-manager-experience-about-remote-work.md)
 
 ## Data Science articles
 
