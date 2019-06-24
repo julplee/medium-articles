@@ -65,7 +65,8 @@ Here are some the appliances that we use with remote people and their use case:
 * **Logitech Conference Cameras** used for longer meetings such as for instance Sprint Planning meetings and retrospectives. This is helpful to see people faces hence non verbal communication when you look for solving problems.
 * a **Catchbox** and bookshelf speakers used when a lot of people run into a meeting for instance for our demos every two weeks where the whole R&D (more than 50 people) attend.
 
-Our own Catchbox
+![Our own Catchbox](images/../../images/my-manager-experience-about-remote-working-catchbox.png)
+
 
 ## Our ritual of having full remote workers come home
 
