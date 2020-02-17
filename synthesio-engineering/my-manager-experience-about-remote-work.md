@@ -1,26 +1,29 @@
 # My manager experience about remote work
-## This article describes my experience with remote work as a manager. In my current company, we have set a remote-friendly culture which gives every person the ability to work remotely as they want while some others are full-time remote workers
 
-As we know that remote work has strong benefits but also drawbacks that we are going to discuss further, we also strongly believe that remote working has a real positive balance in the end.
+## This article describes my experience with people of my software team who work as much as they want from home
+
+In my current company, we have a remote-friendly culture which gives every person the ability to work remotely as much as they want while some others are just full-time remote workers
+
+We know that remote work has strong benefits but also drawbacks that we are going to discuss further. Be that as it may, I strongly believe that remote work has a true positive balance in the end.
 
   ![Working from home has some drawbacks but a lot of benefits for you… and your company!](images/../../images/my-manager-experience-about-remote-working-01.jpg)
 
 # A bit of context
 
-In less than one year we grew from 20 to more than 50 people in R&D with 5 full-time remote workers and the rest of the R&D being able to work remotely as they want.
+In less than one year we grew from 20 to more than 50 people in R&D with 5 full-time remote workers and the rest of the R&D being able to work remotely as much as they want.
 
-When you join our teams, you can be in one of these two ways:
+If you join our teams, you can be in one of these two modes:
 
-* you are either a full-remote worker
+* either you are a full-remote worker
 * or you work at the office
 
 ## If you are a full-remote worker
 
-It means that you are an engineer living at home. You come at the office once a month, two to three days, to meet with the rest of the team.
+It means that you are an engineer living at home. You come at the office once a month, two to three days, to meet with the rest of the team. Of course the company pays for your travel and hotel.
 
 ## If you work at the office
 
-When you work from our buildings, you can enjoy as many remote days as you need or want every week. You don’t need to explain why. You just have to fill a remote day in the pay tool linked to our calendars so that everybody knows where to find you that is not in the office.
+When you work in our buildings, you can enjoy as many remote days as you need or want every week. You don’t need to explain why. You just have to fill a remote day in the administrative tool linked with our calendars so that everybody knows where to join you. Most likely via Slack then ;-)
 
 # The Remote only Manifesto
 
@@ -66,7 +69,6 @@ Here are some the appliances that we use with remote people and their use case:
 * a **Catchbox** and bookshelf speakers used when a lot of people run into a meeting for instance for our demos every two weeks where the whole R&D (more than 50 people) attend.
 
 ![Our own Catchbox](images/../../images/my-manager-experience-about-remote-working-catchbox.png)
-
 
 ## Our ritual of having full remote workers come home
 
