@@ -68,7 +68,7 @@ Here are some the appliances that we use with remote people and their use case:
 * **Logitech Conference Cameras** used for longer meetings such as for instance Sprint Planning meetings and retrospectives. This is helpful to see people faces hence non verbal communication when you look for solving problems.
 * a **Catchbox** and bookshelf speakers used when a lot of people run into a meeting for instance for our demos every two weeks where the whole R&D (more than 50 people) attend.
 
-![Our own Catchbox](images/../../images/my-manager-experience-about-remote-working-catchbox.png)
+![Our own Catchbox](images/my-manager-experience-about-remote-working-catchbox.png)
 
 ## Our ritual of having full remote workers come home
 
@@ -134,7 +134,7 @@ It’s always a good thing when you add a new way of working with your remote wo
 
 This year we also did what we called a “Work from anywhere week”. It was a whole company event that aimed at improving our way of working together whichever the conditions
 
-![The Work from anywhere week](images/../../images/my-manager-experience-about-remote-working-02.png)
+![The Work from anywhere week](images/my-manager-experience-about-remote-working-02.png)
 
 The goals of the week were written like so
 
@@ -146,7 +146,7 @@ The result was great though and most of the teams loved it! To ensure that it wo
 
 In the end we even felt that we sometimes achieved more than in a regular week!
 
-![Working from home has some drawbacks but a lot of benefits for you… and your company!](images/../../images/my-manager-experience-about-remote-working-03.jpg)
+![Working from home has some drawbacks but a lot of benefits for you… and your company!](images/my-manager-experience-about-remote-working-03.jpg)
 
 So yes, remote working has drawbacks and asks for an accurate organisation of work and communication, but as soon as you integrate in your core these needs that having remote workers imply, you move a step forward and **you reap the rewards of trusting people and make their life easier and more enjoyable!**
 
