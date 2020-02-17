@@ -29,7 +29,7 @@ To me, storytelling is an art that is likely the major skill that a data scienti
 
 Why? Because it allows data scientists to popularize their knowledge to the different stakeholders whose management is part of.
 
-And this need became recently even more important because *more and more companies now discuss the data science strategy in their business strategy*.
+And this need became recently even more important because **more and more companies now discuss the data science strategy in their business strategy**.
 
 In order to be able to take the best decisions executives will strongly benefit from understanding thoroughly how their company will be able to leverage an analytics model, which features and insights it can bring to the business and where the results come from.
 
@@ -37,7 +37,7 @@ This is the same thing for a customer which uses your features:
 
 `Where does this positive sentiment given by the model come from? Which words were decisive to predict this sentence is positive?`
 
-To make an executive or a customer able to use and to love a data science feature, *you must ensure they understand perfectly “how” the things work, what’s going on between the input data and the result*.
+To make an executive or a customer able to use and to love a data science feature, **you must ensure they understand perfectly “how” the things work, what’s going on between the input data and the result**.
 
 At Synthesio, we have a bunch of practices to ensure that data scientists train their storytelling skill:
 
