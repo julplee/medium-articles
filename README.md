@@ -13,5 +13,6 @@
 
 ### Data Science articles
 
+* [Data science and the art of storytelling](synthesio-engineering/data-science-and-the-art-of-storytelling.md)
 * [Data Scientist vs Data Science Engineer](synthesio-engineering/data-scientist-vs-data-science-engineer.md)
 * [Pulses & Trends - 1st part](synthesio-engineering/pulses_trends_1.md)
