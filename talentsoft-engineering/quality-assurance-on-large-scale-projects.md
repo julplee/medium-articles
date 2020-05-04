@@ -4,6 +4,8 @@ During the last 5 years, my company grew from a 50 people company to more than 5
 
 In the same time, the development teams grew from 8 to more than 100 people, and from 1 to 16 teams. Meanwhile, the number of products we sell grew from 1 to 4, and a majority of teams still work on the same product.
 
+![QA at Large scale](images/qa-large-scale-01.png)
+
 The way you do Quality Assurance (QA) in a small agile team is not exactly the same that you will use on large-scale projects, where you need to have a good coordination between several teams for a coherent final product release, even in an environment where each team works on their microservice.
 
 In this article, I’ll share with you our thoughts about Quality Assurance and how we choose to organise to succeed.
@@ -15,6 +17,8 @@ Most of our teams have chosen Scrum as their working method.
 In that case, Quality Assurance is ensured with one QA engineer per team. They are part of the team, they sit and work with developers, PO, Business Analyst, UX… every day of the sprint.
 
 Our ratio is of 4 developers for 1 QA. Our sprints are 2 weeks long.
+
+![QA at Large scale](images/qa-large-scale-02.png)
 
 You might know that we must differentiate 2 types of testing :
 
@@ -34,6 +38,8 @@ To succeed, we discovered that your team should have key values exposed below :
 * Trust : QA Engineer, Product Owner and Developers must trust each other and know their role, as well as the role of their coworkers in the chain of quality. “When does one plays their role ?” must be everything but a secret for everyone involved in the team effort.
 * Searching for automation : a daily question to ask. “Can I automate this task I am going to perform?”, is it advantageous to choose manual testing or to automate? One should always have the tooling ready to be able to automate what is worth automating.
 * Agility : working together is a prerequisite. Inside the same team, and the same temporality. However, you will be working on a V-cycle and suffer from costly interruptions in your next sprints.
+
+![QA at Large scale](images/qa-large-scale-03.png)
 
 ## During our growth : Scaling Agile Quality Assurance
 
