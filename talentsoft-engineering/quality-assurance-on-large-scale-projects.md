@@ -1,4 +1,6 @@
-# Quality Assurance on large-scaled projects
+# Quality Assurance on large-scale projects
+
+*This article was written in 2017 to describe how we work at Talentsoft on large-scale projects. I made a major update of this article in 2020 to bring precisions with knowledge I got at Synthesio in the meantime: I'm now better at knowing what really works on a large-scale R&D.*
 
 During the last 5 years, my company grew from a 50 people company to more than 500 teammates today.
 
@@ -20,16 +22,41 @@ Our ratio is of 4 developers for 1 QA. Our sprints are 2 weeks long.
 
 ![QA at Large scale](images/qa-large-scale-02.png)
 
+### White box vs Black box testing and why that matters
+
 You might know that we must differentiate 2 types of testing :
 
-* **White box testing:** done by software developers, with Unit Testing (testing code in isolation) and Integration Testing (tests going through different code layers)
-* **Black box testing:** done by QA engineers inside the team, with System Testing (e.g. using Selenium), Regression Testing (using System Testing tooling), Acceptance Testing (using BDD tools), Load Testing (e.g. using jMeter), Smoke Testing (using System Testing tooling)…
+* **White box testing:** is testing a system that you know how it was built. Some examples could be tests done by software developers or QA engineers inside of the team who know how the feature under test was developed
+* **Black box testing:** is testing a system that you don't know (or you prevent yourself) how it was built. For example it could be done by QA engineers or developers outside of the team
 
-As evident as it may seem, white box testing is performed during the sprint, sometimes before coding (TDD) or just after.
+As evident as it may seem, white box testing is performed during the sprint, sometimes even before coding (TDD) or just after.
 
-But **when is black box testing performed?** QA engineers take action after a User Story is moved from “in development” to “QA”.
+But **when is black box testing performed?** QA engineers outside the team take action after a User Story is integrated in the product to release. It's a black box for them if they were not involved in the specification process. Which could not be the case if you work for instance with the Three amigos method)
+At this moment, the QA engineer can verify the previously defined Acceptance Criteria written in the story and can create automated tests accordingly, but this is a black box for him/her.
+These tests will guarantee a certain level of quality, and also that we spend our QA money wisely : QA Engineer chooses to automate some of the use cases that he knows he will need many times in the future. He has all the skills and tools to do so.
 
-At this moment, the QA engineer can verify the previously defined Acceptance Criteria written in the story and can create automated black box tests accordingly. They will guarantee a certain level of quality, and that we spend our QA money wisely : QA Engineer chooses to automate some of the use cases that he knows he will need many times in the future. He has all the skills and tools to do so.
+Knowing if you do white box or black box testing matters because you will get different benefits from one or the other.
+
+## Tests types and purposes
+
+Bear in mind that there are a lot of types of tests and that all of them could be used for white box or black box testing.
+For example a Selenium terst can be white box test, even written using BDD namely before the feature has been coded using a DSL such as Gherkin. This DSL linking abstract code (using Page Object for example to associate an ID with a button) with tests and allowing to hide the details of implementation that will be done afterwards.
+NB: This DSL has the advantage of letting system evolve without breaking the test
+
+**In summary: it only depends on the way you involve people that do tests in the project.**
+
+You can find:
+
+* Unit Testing: testing code in isolation
+* Integration Testing: tests going through different code layers
+* Functional testing: tests simulating user behavior on the final product using Selenium for example
+
+And these tests can have different purposes:
+
+* Regression Testing: using automated tests to ensure feature remain working
+* Acceptance Testing: (BDD development process) which consist of business rules that come from acceptance criteria written in specifications
+* Load Testing: ensure the system responds well under load (e.g. using jMeter)
+* Smoke Testing: the minimal scope of automated tests that you can have. Smoke testing uses some of your automated tests to ensure the system starts well and is ready to answer user actions
 
 ## Key values
 
